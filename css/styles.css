@@ -12,22 +12,26 @@
 }
 
 .jumbotron2 {
-
+  background-image: url(/img/close-up-view-of-brown-surface-2827741.jpg);
+  color: white;
 }
 
 .jumbotron3 {
-
+  background-image: url(/img/abstract-art-background-crack-1151383.jpg);
+  color: white;
 }
 
 .index {
-  color: #feb236;
+  color: #FFC500;
   font-size: 150px;
 }
 
 .about {
-
+  color: #4ECDC7;
+  font-size: 150px;
 }
 
 .projects {
-
+  color: #DB4D00;
+  font-size: 150px;
 }
