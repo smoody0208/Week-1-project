@@ -12,33 +12,40 @@ body {
 .container1 {
   padding-top: 5%;
   padding-bottom: 5%;
-  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
 }
 
 .container2 {
   padding-top: 5%;
   padding-bottom: 5%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .container3 {
   padding-top: 5%;
   padding-bottom: 5%;
-  
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .jumbotron1 {
   background-image: url(/img/white-surface-1774986.jpg);
-  color: black;
+  
+}
+
+.jumbotron p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 25px;
+  background-color: black;
+  color: white;
+  padding: 2%;
 }
 
 .jumbotron2 {
   background-image: url(/img/close-up-view-of-brown-surface-2827741.jpg);
-  color: white;
 }
 
 .jumbotron3 {
   background-image: url(/img/abstract-art-background-crack-1151383.jpg);
-  color: white;
 }
 
 .index {
@@ -61,6 +68,7 @@ img {
   margin-left: 10%;
 }
 
-.aboutme {
-  
+.btn {
+  display: flex;
+  justify-content: center;
 }
