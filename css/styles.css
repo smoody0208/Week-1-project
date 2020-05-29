@@ -57,5 +57,10 @@ body {
 }
 
 img {
-  float: left;
+  float: right;
+  margin-left: 10%;
+}
+
+.aboutme {
+  
 }
