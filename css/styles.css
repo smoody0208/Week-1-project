@@ -6,10 +6,26 @@
   padding-bottom: 5%;
 }
 
+body {
+  background-color: rgba(245, 170, 59, 0.336);
+}
 .container1 {
   padding-top: 5%;
   padding-bottom: 5%;
+  
 }
+
+.container2 {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.container3 {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  
+}
+
 .jumbotron1 {
   background-image: url(/img/white-surface-1774986.jpg);
   color: black;
