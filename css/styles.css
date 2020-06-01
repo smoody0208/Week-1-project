@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: rgba(245, 170, 59, 0.336);
+  background-color: rgba(252, 197, 79, 0.178);
 }
 .container1 {
   padding-top: 5%;
@@ -33,7 +33,6 @@ body {
 
 .jumbotron1 {
   background-image: url(https://images.pexels.com/photos/1484759/pexels-photo-1484759.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
-  
 }
 
 .jumbotron p {
@@ -76,3 +75,28 @@ img {
   display: flex;
   justify-content: center;
 }
+
+#hello {
+  color: #FFC500;
+}
+
+#like {
+  color: #4ECDC7;
+}
+
+#why {
+  color: #DB4D00;
+}
+
+#me {
+  color: #DB4D00;
+}
+
+#me1 {
+  color: #4ECDC7;;
+}
+
+#projects {
+  color: #FFC500;
+}
+
